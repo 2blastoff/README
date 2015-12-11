@@ -1,0 +1,1 @@
+grep is another file within README. Grep works in the terminal by acting like a finder. It works by taking parameter e.g. a word/letter and then looks through files for that parameter. so grep "like" filesx-y-z
